@@ -1,14 +1,14 @@
-### Email Template Generator
+## Email Template Generator
 
 This Python script creates a graphical user interface (GUI) using Tkinter to generate email templates quickly and easily.
 
-#### Features
+### Features
 
 - Fill in customer information, order details, and item lists to generate email templates.
 - Generate subject lines dynamically based on order numbers.
 - Copy generated email subject and body to the clipboard for easy sharing or pasting.
 
-#### Installation
+### Installation
 
 1. **Clone the Repository:**
    Clone or download the repository containing the `emailautocreate.py` script.
@@ -22,7 +22,7 @@ This Python script creates a graphical user interface (GUI) using Tkinter to gen
    pip install tk
    ```
 
-#### Usage
+### Usage
 
 1. **Run the Script:**
    After installing dependencies, execute the script in a terminal or command prompt:
@@ -39,7 +39,7 @@ This Python script creates a graphical user interface (GUI) using Tkinter to gen
 4. **Copy Email:**
    Use the "Copy Email" button to copy the generated email to the clipboard for easy sharing or pasting.
 
-#### Building the App without Terminal
+### Building the App without Terminal
 
 If you prefer not to use the terminal to build the app, you can build it using PyInstaller directly.
 
@@ -70,7 +70,7 @@ If you prefer not to use the terminal to build the app, you can build it using P
 4. **Run the Executable:**
    You can run the executable file directly from your file explorer by double-clicking on it. This will launch the Email Template Generator without the need for Python or any additional dependencies.
 
-#### Support Development
+## Support Development
 
 If you find this project useful and would like to support further development, you can donate Bitcoin to the following address:
 
@@ -78,6 +78,6 @@ Bitcoin Address: `17Uv9ZgoKFXdi18PNf5UighASk53KMjzxp`
 
 Your contributions will be greatly appreciated and will help in maintaining and improving this project. Thank you for your support!
 
-#### Contributing
+### Note
 
-Contributions, suggestions, and bug reports are welcome! Feel free to open an issue or submit a pull request.
+Remember to replace the placeholder email `support@placeholder.co.za` in the code with your actual support email address.
