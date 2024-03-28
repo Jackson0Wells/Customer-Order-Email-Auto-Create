@@ -1,8 +1,11 @@
 ## Email Template Generator
 
 This Python script creates a graphical user interface (GUI) using Tkinter to generate email templates quickly and easily.
+![Email1](https://github.com/Jackson0Wells/Customer-Order-Email-Auto-Create/assets/165251968/7cc27836-5ffb-4f4e-a560-55624814f5cf)
+![Email2](https://github.com/Jackson0Wells/Customer-Order-Email-Auto-Create/assets/165251968/87742ace-f8a8-486c-b785-7fd611d49bcf)
 
 ### Features
+
 
 - Fill in customer information, order details, and item lists to generate email templates.
 - Generate subject lines dynamically based on order numbers.
