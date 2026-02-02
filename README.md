@@ -79,7 +79,9 @@ If you prefer not to use the terminal to build the app, you can build it using P
 
 If you find this project useful and would like to support further development, you can donate Bitcoin to the following address:
 
-Bitcoin Address: `17Uv9ZgoKFXdi18PNf5UighASk53KMjzxp`
+Bitcoin Taproot Address: bc1p3863n5kss37j9zduqnfwrlj59vf5dnvcvccf7rzuujzwcmg6uevqwh92xc
+
+ETH Address: 0x56DC29495FAeB3B4331cE32A2190096C071f18e7
 
 Your contributions will be greatly appreciated and will help in maintaining and improving this project. Thank you for your support!
 
